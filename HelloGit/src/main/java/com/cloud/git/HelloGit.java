@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("update firstly");
         System.out.println("create branches");
         System.out.println("master update");
+        System.out.println("在线更新");
     }
 }
