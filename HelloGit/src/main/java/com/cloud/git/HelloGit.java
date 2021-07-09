@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("create branches");
         System.out.println("master update");
         System.out.println("在线更新");
+	System.out.println("win10上再次更新");
     }
 }
